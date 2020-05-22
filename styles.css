@@ -1,0 +1,36 @@
+body
+{background-color: rgb(173, 212, 230);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin: 25;
+}
+
+
+#kep1{float: left;
+    margin-left: 25px;
+}
+
+#hivatkozas{
+    text-align: right;
+    border-bottom: solid black;
+}
+h1{text-align: center;}
+h2{ margin-left: 338px;}
+h3{font-size: 25px;
+margin-left: 25px;}
+
+#Bemutatkozás {
+    margin-right: 100px;
+    margin-left: 338px;
+}
+
+#video{
+    margin-left: 25px;
+}
+p{margin-left: 25px;
+margin-right: 40px;}
+
+
+img{border-radius: 8px;}
+
+#kep2{margin: 25px;
+}
